@@ -36,3 +36,7 @@
 ehthumbs.db
 Thumbs.db
 desktop.ini
+
+# Specific files #
+##################
+includes/dbparams.php
